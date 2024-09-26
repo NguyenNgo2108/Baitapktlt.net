@@ -1,0 +1,7 @@
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\bin\Debug\BaiKiemTra1.exe.config
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\bin\Debug\BaiKiemTra1.exe
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\bin\Debug\BaiKiemTra1.pdb
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.AssemblyReference.cache
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.CoreCompileInputs.cache
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.exe
+C:\Users\nemol\source\repos\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.pdb

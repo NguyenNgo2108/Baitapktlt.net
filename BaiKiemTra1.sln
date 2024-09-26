@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiKiemTra1", "BaiKiemTra1\BaiKiemTra1.csproj", "{CFB8D798-0121-41A7-ABF1-3B00246C307B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiKiemTra2", "BaiKiemTra2\BaiKiemTra2.csproj", "{27B9D316-523A-4759-9F6C-891070F90B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB8D798-0121-41A7-ABF1-3B00246C307B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB8D798-0121-41A7-ABF1-3B00246C307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB8D798-0121-41A7-ABF1-3B00246C307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB8D798-0121-41A7-ABF1-3B00246C307B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B9D316-523A-4759-9F6C-891070F90B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B9D316-523A-4759-9F6C-891070F90B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B9D316-523A-4759-9F6C-891070F90B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B9D316-523A-4759-9F6C-891070F90B36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B43B68-04E5-4764-B15F-956C88D62424}
+	EndGlobalSection
+EndGlobal
